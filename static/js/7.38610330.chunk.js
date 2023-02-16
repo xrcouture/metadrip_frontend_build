@@ -1,2 +1,0 @@
-(this.webpackJsonpmetadrip=this.webpackJsonpmetadrip||[]).push([[7],{327:function(t,i,p){"use strict";p.r(i),i.default=p.p+"static/media/ComicBoom.9dd5fa09.png"}}]);
-//# sourceMappingURL=7.38610330.chunk.js.map
