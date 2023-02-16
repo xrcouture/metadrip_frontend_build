@@ -1,0 +1,2 @@
+(this.webpackJsonpmetadrip=this.webpackJsonpmetadrip||[]).push([[0],{340:function(a,s,t){"use strict";t.r(s);t(1);var e=t(2);s.default=function(a){return Object(e.jsx)("video",{autoPlay:a.data.autoplay,playsInline:!0,loop:!0,muted:!0,className:a.data.classnames,children:Object(e.jsx)("source",{src:a.data.src})})}}}]);
+//# sourceMappingURL=0.46171cf6.chunk.js.map
